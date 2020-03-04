@@ -1,0 +1,11 @@
+.demo-block.demo-split .el-split {
+  height: 150px;
+  border: 1px solid #dcdee2;
+}
+.demo-block.demo-split .demo-split-pane {
+  padding: 10px;
+}
+.demo-block.demo-split .demo-split-pane.no-padding {
+  height: 150px;
+  padding: 0px;
+}
