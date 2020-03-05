@@ -50,7 +50,7 @@ export default {
 export default {
   data () {
     return {
-        split2: 0.5
+      split2: 0.5
     }
   }
 }
